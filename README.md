@@ -1,1 +1,2 @@
 # Diabetes-Model-MLP-
+A Multi-Layer Perceptron (MLP) model being used for multiclass classification in diabetes prediction. This model is trained on a dataset of 120,000 records and can classify individuals into four categories: Type 1 Diabetes, Type 2 Diabetes, Type 3 Diabetes, or No Diabetes. It learns from key input attributes, including age, gender, blood glucose levels, hypertension status, and BMI.
